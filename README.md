@@ -39,11 +39,13 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [FX-BorderlessScene](https://github.com/goxr3plus/FX-BorderlessScene) - Undecorated JavaFX Scene with implemented move, resize, minimise, maximise, close and Windows Aero Snap controls.
 - [FXForm2](https://github.com/dooApp/FXForm2) - A library providing automatic JavaFX form generation. The generated form is highly configurable and skinnable using code, annotations and CSS styling. FXForm2 is compatible with the JSR 303 for bean validation.
 - [FXGraphics2D](https://github.com/jfree/fxgraphics2d) - A library that provides a Graphics2D API for drawing on the JavaFX Canvas so that existing Java2D code can be reused easily.  This library was created to provide JavaFX support for JFreeChart.
+- [FXLauncher](https://github.com/edvin/fxlauncher) - Auto updating launcher for JavaFX Applications. Combined with JavaFX native packaging, you get a native installer with automatic app updates.
 - [FXParallax](https://github.com/dukke/FXParallax) - Parallax framework for Java (JavaFX).
 - [FXRibbon](https://github.com/dukke/FXRibbon) - Microsoft like Ribbon control for Java (JavaFX).
 - [FXValidation](https://github.com/dukke/FXValidation) - Validation support for Java (JavaFX).
 - [FXyz](https://github.com/Birdasaur/FXyz) - F(X)yz is a new JavaFX 3D library that provides additional primitives, composite objects, controls and data visualizations that the base JavaFX 8 3D packages do not have.
 - [GestureFX](https://github.com/tom91136/GestureFX) - A lightweight pinch-to-zoom pane for JavaFX
+- [Getdown](https://github.com/threerings/getdown) - Getdown is a system for deploying Java applications to end-user computers, as well as keeping those applications up to date.
 - [Gluon Maps](http://gluonhq.com/labs/maps/) - Gluon Maps is built with high performance in mind, but that doesn’t mean functionality is missing. Gluon Maps offers layer overlays, multiple tilesets, and much more.
 - [Gluon Scene Builder](http://gluonhq.com/labs/scene-builder/) - Scene Builder works with the JavaFX ecosystem – official controls, community projects, and Gluon offerings including Gluon Mobile, Gluon Desktop, and Gluon CloudLink.
 - [GMapFX](http://rterp.github.io/GMapsFX/) - GMapsFX provides a wrapper to the Google Map's Javascript API, allowing you to use and interact with maps using a pure Java API.
@@ -87,6 +89,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [Toggle Switch](https://www.pixelduke.com/projects#toggle-switch) - Toggle Switch control for Java (JavaFX)
 - [Undecorator](https://github.com/in-sideFX/Undecorator) - Decorate undecorated JavaFX stages with custom skin. This helper brings a custom look to your JavaFX stages.
 - [UndoFX](https://github.com/TomasMikula/UndoFX) - Undo manager for JavaFX.
+- [Update4j](https://github.com/update4j/update4j) - Auto-updater and launcher for your distributed applications. Built with Java 9's module system in mind.
 - [VWorkflows](https://github.com/miho/VWorkflows) - Interactive flow/graph visualization for building domain specific visual programming environments. Provides UI bindings for JavaFX.
 - [WellBehavedFX](https://github.com/TomasMikula/WellBehavedFX) - Composable event handlers and skin scaffolding for JavaFX controls.
 
@@ -227,7 +230,7 @@ We talk about the status of JavaFX on Mobile, and about the options for running 
 *Interesting Articles about JavaFX*
 - [Building a JavaFX Search Bar](https://vocabhunter.github.io/2017/01/15/Search-Bar.html) - How to add a search bar to your JavaFX user interface. The article is based on a real application and includes links to all of the source code.
 - [Dependency Injection in JavaFX](https://vocabhunter.github.io/2016/11/13/JavaFX-Dependency-Injection.html) - A guide to implementing Dependency Injection in a JavaFX application.
-- [How JavaFX was used to build a desktop application](https://techblog.king.com/javafx-used-build-desktop-application/) - A look at some of the features of JavaFX and how they were used in building an application.  The article includes links to all of the source code on GitHub. 
+- [How JavaFX was used to build a desktop application](https://medium.com/techking/how-javafx-was-used-to-build-a-desktop-application-7d4c680d8dc) - A look at some of the features of JavaFX and how they were used in building an application.  The article includes links to all of the source code on GitHub. 
 - [JavaFX 8 Refcard](https://dzone.com/refcardz/javafx-8-1) - Gives you what you need to start using the powerful JavaFX 8 UI and graphics tool with code snippets and visual examples of shapes and controls.
 - [JavaFX Refcard](https://dzone.com/refcardz/getting-started-javafx) - Gets you started with JavaFX, which makes it easier to build better RIAs with graphics, animation, and media.
 - [User Interface Testing with TestFX](https://vocabhunter.github.io/2016/07/27/TestFX.html) - A guide to using TestFX to automate JavaFX user interface testing.
@@ -240,6 +243,7 @@ We talk about the status of JavaFX on Mobile, and about the options for running 
 - [binjr](https://github.com/binjr/binjr) - binjr is a time series data browser; it renders time series data produced by other applications as dynamically editable charts and provides many features to navigate through the data in a natural and fluent fashion (drag & drop, zoom, history, detacheable tabs, advanced time-range picker).
 - [Deep Space Trajectory Explorer](https://www.youtube.com/watch?v=MotQ1PC1xT8) - This is an application used by NASA. This tool allows a trajectory designer to identify, compare and export deep space 3 body system trajectories.
 - [Everest](https://github.com/RohitAwate/Everest) - Everest (formerly RESTaurant) is an upcoming REST API testing client written in JavaFX. Looks like Postman but writen in Java.
+- [FX2048](https://github.com/brunoborges/fx2048) - The game 2048 built using JavaFX and Java 11.
 - [FXDesktopSearch](https://github.com/mirkosertic/FXDesktopSearch) - FXDesktopSearch is a Java and JavaFX based Desktop Search Application. It crawls a configured set of directories and allows you to do fulltext search with different languages support on the content.
 - [JStackFX](https://github.com/twasyl/jstackfx) - It is not an easy task to analyse thread dumps as files generated by the jstack tool provides raw text files. JStackFX will help you to do that with a nice FX GUI.
 - [Modellus](https://www.pixelduke.com/projects#modellus) - Modellus is a freely available Swing and JavaFX app.  It was the first application to integrate both Swing and JavaFX together in a single app (back then using a custom made solution - JXScene - not available at the time).  It is used all over the world, specially in High School and Universities, and has appeared in several published scientific papers. Samples range from Physics to Mathematics, going through Mechanics, Chemistry, Statistics, Algebra, Geometry, among others.
